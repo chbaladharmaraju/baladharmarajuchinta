@@ -85,8 +85,8 @@
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: linkedin.com/in/chbaladharmaraju
-- 🌐 Portfolio: chbaladharmarajuportfolio.vercel.app
+- 💼 LinkedIn: www.linkedin.com/in/chbaladharmaraju
+- 🌐 Portfolio: www.chbaladharmarajuportfolio.vercel.app
 - 📧 Email: ch.baladharmaraju@gmail.com
 
 ---
